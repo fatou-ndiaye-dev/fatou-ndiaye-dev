@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut , moi c'est Fatou Ndiaye 👋
 
-<!--
-**fatou-ndiaye-dev/fatou-ndiaye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeuse Web passionnée | Basée à Dakar , Sénégal SN 
 
-Here are some ideas to get you started:
+Je suis passionnée par la création de sites
+web modernes, simples et utiles .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Actuellement j'apprends : **HTML, CSS, Javascript et Github
+👩‍💻 **Je cherche à :**Rejoindre des projets web et collaborer avec d'autres développeurs
+🎯 **Mon objectif 2026 :** Devenir
+développeuse web front-end 
+📫 **Me contacter :** Ouvrez une Issue sur
+ce repo !
+
+### 🛠️ Mes compétences 
+- HTML / CSS
+- Javascritp (en cours)
+- Git & GitHub
+
+  ### ✨ Mon projet
+  Ce portfolio est mon premier projet sur
+  GitHub. D'autres arrivent bientôt !
+
+
